@@ -1,5 +1,5 @@
 /**
- * Created by Hinata on 3/3/2017.
+ * Created by Muhamad Rizki on 15/8/2017.
  */
 import { connect } from 'react-redux'
 import { toggleTodo } from '../../../actions'

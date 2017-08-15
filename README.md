@@ -44,4 +44,4 @@ npm run build-windows
 ```
 
 ## Contributing
-* tdl
+* MR

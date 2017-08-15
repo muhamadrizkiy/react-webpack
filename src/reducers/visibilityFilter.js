@@ -1,5 +1,5 @@
 /**
- * Created by Hinata on 3/3/2017.
+ * Created by Muhamad Rizki on 15/8/2017.
  */
 const visibilityFilter = (state = 'SHOW_ALL', action) => {
     switch (action.type) {
